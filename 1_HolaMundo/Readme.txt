@@ -9,5 +9,7 @@ https://getbootstrap.com/docs/4.3/layout/overview/#containers
 	
 	Se pueden usar contenedores "responsive" y de ancho fijo o de ancho fluido
 	Choose from a responsive, fixed-width container (meaning its max-width changes at each breakpoint) or fluid-width (meaning it’s 100% wide all the time).
+	
+	Los containers pueden estar uno dentro de otro, pero la mayoría de estilos no suelen requerir esta aproximación.
 
-While containers can be nested, most layouts do not require a nested container.
+
